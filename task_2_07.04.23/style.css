@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ebf3f3;
+
+}
+
+.Schedule{
+    font-size: x-small;
+    text-align: center;
+    color:#97b3ba;
+    margin-top: 60px;
+
+}
+
+.Schedule1{
+    font-size: small;
+    text-align: center;
+    color:#797c7c;
+    margin-top: 10px;
+
+}
+.above{
+    width: 400px;
+    margin-left: 600px;
+    margin-bottom: 30px;
+}
+
+.inputs{
+    width:580px;
+    height:370px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 520px;
+    padding: 50px;
+
+}
+
+.inputt{
+    height: 32px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bolder;
+    border-color: #97b3ba;
+}
+
+button{
+    height: 32px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #7a9ca5;
+    color: white;
+    
+    
+}
